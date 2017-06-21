@@ -1,0 +1,77 @@
+/** {*/
+  /*box-sizing: content-box;*/
+/*}*/
+
+.title{
+  font-family: monospace;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 0;
+}
+
+.menulist li {
+  display: inline-block;
+  background-color: grey;
+  color: white;
+  font-family: monospace;
+  font-size: 15px;
+  padding: 15px;
+  margin-top: 0;
+
+}
+
+.menulist{
+  text-align: center;
+  margin-top: auto;
+}
+
+.secondtitle{
+  background-color: aqua;
+  box-sizing: inherit;
+  margin-top: 0;
+  padding: 20px;
+  font-family: monospace;
+  font-size: 25px;
+}
+
+.pictureoptions li {
+  display: inline-block;
+  text-align: right;
+  padding-left: 60px;
+  padding-right: 60px;
+  background-color: yellow;
+  margin-top: 0;
+}
+
+.pictureoptions ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+  padding: inherit;
+  text-align: justify;
+  display: inline-block;
+}
+
+.pictures{
+  margin: auto;
+  text-align: center;
+
+}
+
+.pictureoptions{
+  text-align: center;
+}
+
+
+.bitmaker {
+  background-color: black;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+
+}
+
+
+}
